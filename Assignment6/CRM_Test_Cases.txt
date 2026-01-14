@@ -1,0 +1,27 @@
+Test Case 1: Valid Login
+Field                        Description
+Test Case ID                 TC_CRM_01
+Test Case Title              Verify login with valid credentials
+Module                       Login
+Preconditions                User must be registered
+Test Steps                   1. Open CRM login page
+                             2. Enter valid username
+                             3. Enter valid password
+                             4. Click Login
+Test Data                    Username: admin
+                             Password: admin@123
+Expected Result              User should be logged in successfully
+Actual Result                Logged in successfully
+Status                       Pass
+
+Test Case 2: Add New Customer
+Test Case ID                 TC_CRM_02
+Module                       Customer Management
+Preconditions                User must be logged in
+Test Steps                   1. Navigate to Customers
+                             2. Click Add Customer
+                             3. Enter valid details
+                             4. Click Save
+Expected Result              Customer added successfully
+Actual Result                Customer added
+Status                       Pass

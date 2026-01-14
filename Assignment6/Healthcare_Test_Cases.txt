@@ -1,0 +1,21 @@
+Test Case 1: Patient Registration
+Test Case ID                 TC_HEALTH_01
+Module                       Registration
+Preconditions                User must access system
+Test Steps                   1. Open registration page
+                             2. Enter patient details
+                             3. Click Submit
+Expected Result              Patient registered successfully
+Actual Result                Registration successful
+Status                       Pass
+
+Test Case 2: Book Appointment
+Test Case ID                 TC_HEALTH_02
+Module                       Appointment
+Preconditions                Patient must be registered
+Test Steps                   1. Select doctor
+                             2. Choose date & time
+                             3. Confirm appointment
+Expected Result              Appointment booked successfully
+Actual Result                Appointment booked
+Status                       Pass

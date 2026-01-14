@@ -1,0 +1,21 @@
+Test Case 1: Search Flights
+Test Case ID                 TC_TRAVEL_01
+Module                       Flight Search
+Preconditions                User must be on homepage
+Test Steps                   1. Enter source and destination
+                             2. Select travel date
+                             3. Click Search
+Expected Result              Available flights displayed
+Actual Result                Flights displayed
+Status                       Pass
+
+Test Case 2: Book Ticket
+Test Case ID                 TC_TRAVEL_02
+Module                       Booking
+Preconditions                Flights must be available
+Test Steps                   1. Select flight
+                             2. Enter passenger details
+                             3. Make payment
+Expected Result              Ticket booked successfully
+Actual Result                Ticket booked
+Status                       Pass

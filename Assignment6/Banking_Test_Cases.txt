@@ -1,0 +1,21 @@
+Test Case 1: Login to Banking Portal
+Test Case ID                 TC_BANK_01
+Module                       Login
+Preconditions                User must have an account
+Test Steps                   1. Open banking website
+                             2. Enter valid credentials
+                             3. Click Login
+Expected Result              User logged in successfully
+Actual Result                Login successful
+Status                       Pass
+
+Test Case 2: Fund Transfer
+Test Case ID                 TC_BANK_02
+Module                       Transactions
+Preconditions                User must be logged in
+Test Steps                   1. Select transfer option
+                             2. Enter beneficiary details
+                             3. Confirm transfer
+Expected Result              Amount transferred successfully
+Actual Result                Transfer successful
+Status                       Pass
