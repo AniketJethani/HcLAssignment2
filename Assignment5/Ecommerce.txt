@@ -1,0 +1,65 @@
+
+PROJECT TITLE: Online E-Commerce Website USING AGILE METHODOLOGY
+
+ABSTRACT
+This project report describes the design and development of a e-commerce web application using Agile methodology. The system focuses on improving efficiency, usability, and scalability through iterative development, continuous feedback, and incremental delivery.
+
+CHAPTER 1: INTRODUCTION
+In today’s digital era, software systems play a vital role in automating business processes. The e-commerce web application is designed to replace traditional manual systems with an efficient digital solution. Agile methodology is adopted to ensure flexibility, faster delivery, and customer satisfaction.
+
+CHAPTER 2: PROBLEM STATEMENT
+Traditional systems face issues such as poor data management, lack of transparency, slow processing, and difficulty in scaling. This project aims to overcome these challenges by implementing a structured and automated solution.
+
+CHAPTER 3: OBJECTIVES
+• To design a reliable and user-friendly system  
+• To automate core operations  
+• To ensure data accuracy and security  
+• To apply Agile practices for continuous improvement  
+
+CHAPTER 4: SCOPE OF THE PROJECT
+The scope includes requirement analysis, system design, development, testing, and deployment. Future enhancements can be easily integrated due to the Agile nature of the project.
+
+CHAPTER 5: AGILE METHODOLOGY
+Agile methodology emphasizes iterative development through sprints. Each sprint includes planning, development, testing, and review. Daily stand-up meetings and sprint retrospectives help in identifying improvements.
+
+CHAPTER 6: SYSTEM REQUIREMENTS
+Hardware Requirements:
+• Processor: Intel i3 or above  
+• RAM: 4 GB minimum  
+
+Software Requirements:
+• Operating System: Windows/Linux  
+• Frontend: HTML, CSS, JavaScript  
+• Backend: Java/PHP  
+• Database: MySQL  
+
+CHAPTER 7: SYSTEM DESIGN
+The system follows a modular architecture. Each module is developed and tested independently. UML diagrams such as use case, class, and sequence diagrams are used during design.
+
+CHAPTER 8: IMPLEMENTATION
+Implementation is carried out in multiple Agile sprints. Features are delivered incrementally, allowing early user feedback and timely changes.
+
+CHAPTER 9: TESTING
+Testing is performed at the end of each sprint. Functional testing, integration testing, and user acceptance testing ensure system quality.
+
+CHAPTER 10: ADVANTAGES
+• Faster development  
+• High adaptability  
+• Better user satisfaction  
+• Reduced risk  
+
+CHAPTER 11: LIMITATIONS
+• Requires active user involvement  
+• Difficult to estimate total cost initially  
+
+CHAPTER 12: FUTURE ENHANCEMENTS
+• Cloud integration  
+• Mobile application support  
+• Advanced analytics  
+
+CHAPTER 13: CONCLUSION
+The Online E-Commerce Website developed using Agile methodology successfully meets project objectives. Agile ensured flexibility, quality, and continuous improvement.
+
+REFERENCES
+• Agile Software Development Guide
+• Software Engineering by Pressman
